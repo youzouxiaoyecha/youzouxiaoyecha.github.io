@@ -6,7 +6,7 @@ url: https://youzouxiaoyecha.github.io/
 date_format: "ordinal"
 title: 搬砖不敢停
 subtitle: "公众号：待更新"
-description: "搬砖不敢停"
+description: "搬砖不敢停的博客"
 keywords: 搬砖不敢停,GitHub,python
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -89,9 +89,9 @@ navs:
  #   href: /links/
  #   label: 链接
 
-  -
-    href: /about/
-    label: 关于
+#  -
+#    href: /about/
+#    label: 关于
 
 # ---------------- #
 #       RSS        #
