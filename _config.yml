@@ -8,7 +8,7 @@ title: 搬砖不敢停
 subtitle: "公众号：待更新"
 description: "搬砖不敢停"
 keywords: 搬砖不敢停,GitHub,python
-timezone: China/changsha
+timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
@@ -54,12 +54,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 搬砖不敢停
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: youzouxiaoyecha
+location: ChangSha, China
+email: 1245893874@qq.com
 
 # ---------------- #
 #    Navigation    #
