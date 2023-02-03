@@ -13,13 +13,13 @@ tags: VSCode
 
 
 ![](/images/payimg/1.png)
-Markdown All in One
+<center>Markdown All in One</center>
 
 ![](/images/payimg/2.png)
-Markdown Preview Enhanced
+<center>Markdown Preview Enhanced</center>
 
 ![](/images/payimg/3.png)
-Markdown Preview Github Styling
+<center>Markdown Preview Github Styling</center>
 
 
 
