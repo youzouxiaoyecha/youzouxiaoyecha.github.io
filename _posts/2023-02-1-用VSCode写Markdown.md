@@ -11,13 +11,14 @@ tags: VSCode
 
 2.需要安装的插件：Markdown All in One/ Markdown Preview Github Styling  /Markdown Preview Enhanced
 
-@import "Markdown All in Onepng.png"
 
-@import "Markdown Preview Github Styling.png"
+![](/Markdown%20All%20in%20Onepng.png)
 
-@import "Markdown Preview Enhanced.png"
+![](/Markdown%20Preview%20Enhanced.png)
 
-![图片]（/Markdown All in Onepng.png）
+![](/Markdown%20Preview%20Github%20Styling.png)
+
+
 
 
 
