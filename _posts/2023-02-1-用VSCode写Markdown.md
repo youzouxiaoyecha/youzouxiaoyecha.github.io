@@ -18,7 +18,7 @@ Markdown All in One
 ![](/images/payimg/2.png)
 Markdown Preview Enhanced
 
-![](/images/payimg/3g.png)
+![](/images/payimg/3.png)
 Markdown Preview Github Styling
 
 
