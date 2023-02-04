@@ -12,5 +12,5 @@ title: 关于我
 
 博客会一直持续更新，请持续关注我，谢谢~
 
-{% include comments.html %}
+
 
